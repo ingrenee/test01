@@ -1,3 +1,4 @@
 <?PHP
-echo "hola mundo"
+echo "hola mundo";
+
 ?>
